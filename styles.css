@@ -1,0 +1,47 @@
+.test {
+
+    height: 700px;
+    width: 300px;
+    background-color: powderblue;
+    margin: 20px;
+}
+
+.body {
+    text-align: center;
+}
+
+.navigation {
+    border: solid;
+    height: 20px;
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+    background-color: powderblue;
+
+}
+
+.test2 {
+
+    height: 700px;
+    width: 400px;
+    background-color: powderblue;
+    margin: 20px;
+}
+
+.flex {
+    display: flex;
+    justify-content: center;
+}
+
+.test3 {
+
+    height: 700px;
+    width: 300px;
+    background-color: powderblue;
+    margin: 20px;
+}
+
+.profile {
+    width: 300px;
+}
+.story-image {width:400px;}
